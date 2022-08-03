@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sksingh2211@gmail.com**
 
-- 📄 Know about my experiences [here](https://www.linkedin.com/in/qascade/overlay/1635490515290/single-media-viewer?type=DOCUMENT&profileId=ACoAAC2XDjwBrlbO1kWE8OR8dZPjufa0Kes8BvY&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BZSrGHyYiSaiCbp1lKX8HJA%3D%3D)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/qascade/details/featured/1635498603710/single-media-viewer?type=DOCUMENT&profileId=ACoAAC2XDjwBrlbO1kWE8OR8dZPjufa0Kes8BvY&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured_details%3BOuC44eb0TACf9475jso7Lw%3D%3D)
 
 - ⚡ Fun fact **I am also a guitar player who is very passionate about everything neo-soul and RnB.**
 
