@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubh Karman Singh</h1>
 <h3 align="center">A passionate Go Developer from India</h3>
 
-- 🔭 I’m currently working on [Yet Another Streaming tool](https://github.com/qascade/yast), private repos of [RudderLabs](https://github.com/rudderlabs)
+- 🔭 I’m currently working on [Yet Another Streaming tool](https://github.com/qascade/yast) and in private repos of [RudderLabs](https://github.com/rudderlabs)
 
 - 🌱 I’m currently learning **Software Design Patterns, Test Driven Development**
 
