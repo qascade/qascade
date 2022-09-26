@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubh Karman Singh</h1>
 <h3 align="center">A passionate Go Developer from India</h3>
 
-- 🔭 I’m currently working on [Yet Another Streaming tool](https://github.com/qascade/yast) and in private repos of [RudderLabs](https://github.com/rudderlabs)
+- 🔭 I’m currently working on [go-webtorrent](https://github.com/qascade/yast) and [Civet](https://github.com/ShisuiMadara/Civet) (Currently Private).
 
-- 🌱 I’m currently learning **Software Design Patterns, Test Driven Development**
+- 📝 I'm accepting PR's for my project [Yet Another Streaming Tool](https://github.com/qascade/yast) as a maintainer in [HacktoberFest 2022](https://hacktoberfest.com). 
+
+- 🌱 I’m currently learning **Distritbuted Systems and Network Security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/qascade](https://github.com/qascade)
 
