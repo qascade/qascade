@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubh Karman Singh</h1>
 <h3 align="center">A passionate Go Developer from India</h3>
 
-- 🔭 I’m currently working on [go-webtorrent](https://github.com/qascade/go-webtorrent) and [Civet](https://github.com/ShisuiMadara/Civet) (Currently Private).
+- 🔭 I’m currently working on [go-webtorrent](https://github.com/qascade/go-webtorrent)(Under Design Phase) and [Civet](https://github.com/ShisuiMadara/Civet) (Currently Private).
 
 - 📝 I'm accepting PR's for my project [Yet Another Streaming Tool](https://github.com/qascade/yast) as a maintainer in [HacktoberFest 2022](https://hacktoberfest.com). 
 
