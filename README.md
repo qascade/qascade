@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubh Karman Singh</h1>
 <h3 align="center">A passionate Go Developer from India</h3>
 
-- 🔭 I’m currently working on a Data Clean Room Solution.
+- 🔭 I’m currently working on a Data Clean Room Solution. Will make Repo public soon.
 
-- 📝 I'm accepting PR's for my project [Yet Another Streaming Tool](https://github.com/qascade/yast) as a maintainer in [HacktoberFest 2022](https://hacktoberfest.com). 
+- 📝 I'm accepting PR's for my project [Yet Another Streaming Tool](https://github.com/qascade/yast).
 
-- 🌱 I’m currently learning **Distritbuted Systems and Network Security**
+- 🌱 I’m currently learning **Differential Privacy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/qascade](https://github.com/qascade)
 
