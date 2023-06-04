@@ -5,7 +5,7 @@
 
 - 📝 I'm accepting PR's for my project's [dcr](https://github.com/qascade/dcr), [Yet Another Streaming Tool](https://github.com/qascade/yast).
 
-- 🌱 I’m currently learning **Differential Privacy**, **Secure Multiparty Computation and **Distributed Systems**.
+- 🌱 I’m currently learning **Differential Privacy**, **Secure Multiparty Computation** and **Distributed Systems**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/qascade](https://github.com/qascade)
 
