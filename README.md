@@ -3,7 +3,7 @@
 
 - 🔭 I maintain and build a Data Clean Room Solution: [dcr](https://github.com/qascade/dcr)
 
-- 📝 I'm accepting PR's for my project's [dcr](https://github.com/qascade/dcr), [Yet Another Streaming Tool](https://github.com/qascade/yast).
+- 📝 I'm accepting PR's for my projects [dcr](https://github.com/qascade/dcr), [Yet Another Streaming Tool](https://github.com/qascade/yast).
 
 - 🌱 I’m currently learning **Differential Privacy**, **Secure Multiparty Computation** and **Distributed Systems**.
 
