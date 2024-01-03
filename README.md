@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubh Karman Singh</h1>
-<h3 align="left">A Computer Science Engineer, guitarist and self-proclaimed computer science lover. I plan to start recreational programming as a hobby soon!</h3>
+<h3 align="left">A Computer Science Engineer, guitarist and self-proclaimed computer science lover. Currently Working as a Data Engineer at LiveRamp</h3>
 
 - 🔭 I maintain and build a Data Clean Room Solution: [dcr](https://github.com/qascade/dcr)
 
