@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubh Karman Singh</h1>
-<h3 align="left">A Computer Science Engineer, guitarist and self-proclaimed computer science lover. Currently Working as a Data Engineer at LiveRamp</h3>
+<h3 align="left">A Computer Science Engineer, guitarist and self-proclaimed computer science lover. I work as a Data Engineer at LiveRamp</h3>
 
 - 🔭 I maintain and build a Data Clean Room Solution: [dcr](https://github.com/qascade/dcr)
 
 - 📝 I'm accepting PR's for my projects [dcr](https://github.com/qascade/dcr), [Yet Another Streaming Tool](https://github.com/qascade/yast).
 
-- 🌱 I’m currently learning **Differential Privacy**, **Secure Multiparty Computation** and **Distributed Systems**.
+- 🌱 I’m currently learning **Distributed Systems**, **Scala** and **Spark.
 
 - 👨‍💻 All of my projects are available at [https://github.com/qascade](https://github.com/qascade)
 
