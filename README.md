@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubh Karman Singh</h1>
 <h3 align="left">A Computer Science Engineer, guitarist and self-proclaimed computer science lover. I work as a Data Engineer at LiveRamp</h3>
 
-- 🔭 I maintain and build a Data Clean Room Solution: [dcr](https://github.com/qascade/dcr)
+- 🔭 I built a Data Clean Room Solution: [dcr](https://github.com/qascade/dcr)
 
 - 📝 I'm accepting PR's for my projects [dcr](https://github.com/qascade/dcr), [Yet Another Streaming Tool](https://github.com/qascade/yast).
 
