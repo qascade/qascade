@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubh Karman Singh</h1>
-<h3 align="left">A Computer Science Engineer, guitarist and self-proclaimed computer science lover. I work as a Data Engineer at LiveRamp</h3>
+<h3 align="left">A Computer Science Engineer, guitarist and self-proclaimed computer science lover. I work as a Software Engineer at LiveRamp</h3>
 
-- 🔭 I built a Data Clean Room Solution: [dcr](https://github.com/qascade/dcr)
+- 🔭 I built a Proof of Concept for Privacy Preserving Multiparty Data Collaboration: [dcr](https://github.com/qascade/dcr)
 
 - 📝 I'm accepting PR's for my projects [dcr](https://github.com/qascade/dcr), [Yet Another Streaming Tool](https://github.com/qascade/yast).
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sksingh2211@gmail.com**
 
-- 📄 Know about my experiences [here](https://www.linkedin.com/in/qascade/details/featured/1635498603710/single-media-viewer?type=DOCUMENT&profileId=ACoAAC2XDjwBrlbO1kWE8OR8dZPjufa0Kes8BvY&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured_details%3BOuC44eb0TACf9475jso7Lw%3D%3D)
+# - 📄 Know about my experiences [here](https://www.linkedin.com/in/qascade/details/featured/1635498603710/single-media-viewer?type=DOCUMENT&profileId=ACoAAC2XDjwBrlbO1kWE8OR8dZPjufa0Kes8BvY&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured_details%3BOuC44eb0TACf9475jso7Lw%3D%3D) 
 
 - ⚡ Fun fact **I am very passionate about everything jazz, neo-soul and RnB. I have collected and completed all the AC Games...**
 
