@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/qascade](https://github.com/qascade)
 
-- 💬 Ask me about **golang, rust, databases, differential privacy, confidential computing, containers, docker, binary exploitation, computer-networks**
+- 💬 Ask me about **golang, databases, differential privacy, confidential computing, containers, docker, computer-networks**
 
 - 📫 How to reach me **sksingh2211@gmail.com**
 [//]: # (- 📄 Know about my experiences [here](https://www.linkedin.com/in/qascade/details/featured/1635498603710/single-media-viewer?type=DOCUMENT&profileId=ACoAAC2XDjwBrlbO1kWE8OR8dZPjufa0Kes8BvY&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured_details%3BOuC44eb0TACf9475jso7Lw%3D%3D) )
