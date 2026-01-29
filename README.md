@@ -5,8 +5,6 @@
 
 - 📝 I'm accepting PR's for my projects [dcr](https://github.com/qascade/dcr), [Yet Another Streaming Tool](https://github.com/qascade/yast).
 
-- 🌱 I’m currently learning **Distributed Systems**, **Scala** and **Spark**.
-
 - 👨‍💻 All of my projects are available at [https://github.com/qascade](https://github.com/qascade)
 
 - 💬 Ask me about **golang, databases, differential privacy, confidential computing, containers, docker, computer-networks**
